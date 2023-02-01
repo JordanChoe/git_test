@@ -1,0 +1,3 @@
+git basics testing and exploration
+
+this should help with the muscle memory of staging and committing to git
